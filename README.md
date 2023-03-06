@@ -52,6 +52,6 @@ Folgende Spezifikationen hat das Entwicklungssystem, auf dem das Programm auch k
 ## GitHub
 
 Das Projekt ist auch auf unter folgenden Link auf GitHub einsehbar:
-[GitHub.com](https://github.com/)
+[GitHub.com](https://github.com/tisch02/PrgrammierenAbgabe)
 
 
